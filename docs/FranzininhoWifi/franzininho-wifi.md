@@ -35,6 +35,15 @@ Placa Franzininho WiFi:
 
 ![Nova Franzininho WiFI: pinout](https://raw.githubusercontent.com/Franzininho/imagens-franzininho/main/franzininho-wifi/pinagem-franzininho-wifi.png)
 
+## Exemplos de uso da Franzininho WiFi
+
+- [Franzininho WiFi: Primeiros passos na Arduino IDE](https://embarcados.com.br/franzininho-wifi-primeiros-passo-na-arduino-ide/)
+- [Franzininho WiFi – Primeiros passos com ESP-IDF](https://embarcados.com.br/franzininho-wifi-primeiros-passos-com-esp-idf/)
+- [Hello World com a Franzininho WiFi no CircuitPython](https://embarcados.com.br/hello-world-com-a-franzininho-wifi-no-circuitpython/)
+- [Franzininho WiFi: Pinos de Toque Capacitivo com CircuitPython](https://embarcados.com.br/franzininho-wifi-pinos-de-toque-capacitivo-com-circuitpython/)
+- [Franzininho WiFi: PWM com CircuitPython](https://embarcados.com.br/franzininho-wifi-pwm-com-circuitpython/)
+- [Controlando Servo Motor com CircuitPython](https://embarcados.com.br/controlando-servo-motor-com-circuitpython/)
+
 ## Licença
 
 A licença do projeto é a [CERN Open Hardware Licence](https://ohwr.org/project/cernohl/wikis/home)..
